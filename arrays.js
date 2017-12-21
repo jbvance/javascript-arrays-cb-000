@@ -22,7 +22,7 @@ var accessElementInArray = (arr, index) => {
   return arr[index];
 };
 
-var destructivelyRemoveElementFromBeginningOfArray = (array) => {
+var destructivelyRemoveElementFromBeginningOfArray = array => {
   array.shift();
-  return array
-}
+  return array;
+};
