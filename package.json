@@ -13,12 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/learn-co-curriculum/javascript-arrays.git"
   },
-  "keywords": [
-    "learn",
-    "flatiron",
-    "javascript",
-    "arrays"
-  ],
+  "keywords": ["learn", "flatiron", "javascript", "arrays"],
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/javascript-arrays/issues"
